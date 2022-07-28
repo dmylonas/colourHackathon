@@ -5,7 +5,7 @@ In this mini hackathon, we will explore the frequency of colour terms in Wittgen
 
 # Instructions 
 
-•	Download .txt and .csv files from https://github.com/dmylonas/colourHackathon. 
+•	Download .txt files from https://github.com/dmylonas/colourHackathon. 
 
 •	Open Jupyter Notebook on your browser, browse to the directory where you downloaded the data and create a new Python 3 notebook.
 
