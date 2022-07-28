@@ -9,7 +9,7 @@ In this mini hackathon, we will explore the frequency of colour terms in Wittgen
 
 •	Open Jupyter Notebook on your browser, browse to the directory where you downloaded the data and create a new Python 3 notebook.
 
-•	Load text and numerical data in Python.
+•	Load text data in Python.
 
 •	Clean and split text into words for text analysis.
 
