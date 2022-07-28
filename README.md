@@ -15,5 +15,5 @@ In this mini hackathon, we will explore the frequency of colour terms in Wittgen
 
 •	Count the frequency of colour words and sort them.
 
-•	Visualise the frequency of colour words in Python using colour data from Colournamer.
+•	Visualise the frequency of colour words in Python using Colournamer.
 
